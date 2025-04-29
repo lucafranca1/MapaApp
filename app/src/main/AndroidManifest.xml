@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MapaApp"> <meta-data
         android:name="com.google.android.geo.API_KEY"
-        android:value="AIzaSyDsePHAwuhaFJLrKXhLc-I0l4zWGtMOSi4" />
+        android:value="xxxxxxxxxxxxx" />
 
         <activity android:name=".ConfigurarMapaActivity"
             android:exported="true">
