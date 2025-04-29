@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MapaAPP</string>
+    <string-array name="tipos_mapa">
+        <item>Vetorial</item>
+        <item>Satélite</item>
+        <item>Híbrido</item>
+    </string-array>
+    <string-array name="tipos_navegacao">
+        <item>North Up</item>
+        <item>Course Up</item>
+        <item>Nenhuma</item>
+    </string-array>
+    <string name="marcador_padrao">Padrão</string>
+    <string name="marcador_personalizado">Personalizado</string>
+    <string name="exibir_trafego">Exibir Tráfego</string>
+    <string name="salvar_configuracoes">Salvar Configurações e Visualizar Mapa</string>
+    <string name="selecione_tipo_mapa">Tipo de Mapa:</string>
+    <string name="selecione_navegacao">Navegação:</string>
+    <string name="selecione_marcador">Ícone do Marcador:</string>
+</resources>
